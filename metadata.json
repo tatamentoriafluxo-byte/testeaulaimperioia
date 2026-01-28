@@ -1,0 +1,7 @@
+{
+  "name": "23/01 - LuxStudio AI - by Tata Gonçalves",
+  "description": "Estúdio de fotografia profissional e luxuosa impulsionado por Gemini. Crie, edite e analise fotos com qualidade de cinema.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
